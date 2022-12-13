@@ -1,1 +1,1 @@
-# this repository has fundamental concepts of react.
+# this repository has fundamental concepts of ReactJS.
